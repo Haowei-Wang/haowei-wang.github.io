@@ -8,19 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. candidate in Institute of Data Science at National University of Singapore. 
+I am currently a Research fellow in the Department of Industrial Systems Engineering and Management at National University of Singapore. 
 
 Education
 ======
-* 2018 - Expected 2021, Ph.D. in Data Science, Institute of Data Science, National University of Singapore
-* 2018, M.S. in Statistics (by research), Department of Statistics & Applied Probability, National University of Singapore
-* 2016, B.S. in Financial Mangement (minor in Mathematics), Business School, Nankai University                                                                                                                                                                                                                                                         
+* 2016 -  2020, Ph.D., Department of Industrial Systems Engineering and Management , National University of Singapore
+* 2016, B.Eng. in Industrial Engineering, School of Management and Engineering, Nanjing University                                                                                                                                                                                                                                                         
 
 Research Interests
 ======
-* Deep learning and machine learning 
-* High-dimensional data
-* Functional data analysis
-* Latent variable models
+* Stochastic computer simulation modeling and data analysis
+* Bayesian optimization and engineering design
+* Applied statistics and machine learning algorithms
 
 
