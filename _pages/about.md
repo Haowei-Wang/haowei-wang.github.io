@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Research fellow in the Department of Industrial Systems Engineering and Management at National University of Singapore. 
+I am currently a research fellow in the Department of Industrial Systems Engineering and Management at National University of Singapore. 
 
 Education
 ======
