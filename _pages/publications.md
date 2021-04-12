@@ -15,6 +15,6 @@ Publications
 
 Working papers
 =====
-1. **Wang, H.**, Zhang, X., & Ng, S. H. (2020). A nonparametric Bayesian approach for simulation optimization with input uncertainty.  Submitted to IEEE Transactions on Automatic Control. 
-2. **Wang, H.**, Meng, Q., Wang, S., & Ng, S. H. (2021) Enhanced global optimization with parallel global and local structures.  Submitted to European Journal of Operational Research.
+1. **Wang, H.**, Zhang, X., & Ng, S. H. (2020). A nonparametric Bayesian approach for simulation optimization with input uncertainty.  Submitted. 
+2. **Wang, H.**, Meng, Q., Wang, S., & Ng, S. H. (2021) Enhanced global optimization with parallel global and local structures.  Submitted.
 3. **Wang, H.**, Ng, S. H., & Zhang, X. (2021) A fast-computation Thompson sampling approach for online simulation optimization with input uncertainty. Working paper. 
